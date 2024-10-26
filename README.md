@@ -5,7 +5,7 @@
 # Requirements
 NONE! This is a standalone sript
 
-# Intallation
+# Installation
 
 - unzip the file → brp-stopregen
 - Remove **main** from the name
